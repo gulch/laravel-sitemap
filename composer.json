@@ -1,5 +1,5 @@
 {
-	"name": "laravelium/sitemap",
+	"name": "gulch/laravel-sitemap",
 	"description": "Laravelium Sitemap package for Laravel.",
 	"homepage": "https://laravelium.com",
 	"keywords": ["laravelium", "laravel", "php", "sitemap", "generator", "xml", "html", "google-news"],
@@ -18,14 +18,14 @@
 		"wiki": "https://github.com/Laravelium/laravel-sitemap/wiki"
 	},
 	"require": {
-		"php": ">=7.2.5",
-		"illuminate/support": "^7.0",
-		"illuminate/filesystem": "^7.0"
+		"php": ">=7.3",
+		"illuminate/support": "^8.0",
+		"illuminate/filesystem": "^8.0"
 	},
 	"require-dev": {
-		"laravel/framework": "^7.0",
-		"phpunit/phpunit": "^8.0",
-		"orchestra/testbench-core": "^5.0",
+		"laravel/framework": "^8.0",
+		"phpunit/phpunit": "^8.0|^9.0",
+		"orchestra/testbench-core": "^5.0|^6.0",
 		"php-coveralls/php-coveralls" : "^2.2"
 	},
 	"autoload": {
