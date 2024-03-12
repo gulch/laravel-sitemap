@@ -1,5 +1,5 @@
 {
-    "name": "ultrono/laravel-sitemap",
+    "name": "gulch/laravel-sitemap",
     "description": "PHP 8 sitemap generator for Laravel 8, 9, 10 and 11",
     "keywords": ["laravel", "php", "sitemap", "generator", "xml", "html", "google-news"],
     "license": "MIT",
